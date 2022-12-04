@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.raleway {
+    font-family: 'Raleway', sans-serif; color: black;
+}
+.raleway2 {
+    font-family: 'Raleway', sans-serif; color: black;
+}
+
+.raleway3 {
+    font-family: 'Raleway', sans-serif; color: white;
+}
+.fuente {
+    font-family: 'Righteous'; color: black;
+}
+
+.fuente2{
+font-family: 'Righteous'; color: #E8BF42;
+}
+
+.fuente3{
+font-family: 'Righteous'; color: #1D2B4E
+}
+
+.fuente4{
+font-family: 'Righteous'; color:#AE2D1F
+}
+
+.fuente5{
+    font-family: 'Righteous'; color:white
+}
+
+
+body {
+    background-color:whitesmoke
+    ;
+
+}
+
+div .relative {
+    position: relative;
+    left: auto;
+    bottom: 70px;
+
+}
+
+.botton{
+    background-color: #1D2B4E;
+}
+
+.caja6{
+    background-color: whitesmoke;
+}
+
+.buttonbusqueda{
+    background-color: #1D2B4E
+}
+
+.caja2{
+    background-color: #1D2B4E;
+}
+
+.cajamoma{
+background-color: #E8BF42;}
+
+.caja1 {
+    background-color: #1D2B4E;
+}
+
+.caja3 {
+    background-color: #AE2D1F}
+
+.caja4 {
+    background-color: #E8BF42;
+}
+
+
+.caja5 {
+    background-color:  #1D2B4E;
+}
+
+.caja6 {
+    background-color: #5a74b4;
+}
+
+.caja7 {
+    background-color: black;
+}
+
+
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: #1D2B4E;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 70px;
+}
+
+.hiper {
+    text-decoration: none;
+}
+
+.accordion-item .acordion {
+    background-color: #F0E9B5;
+}
+
+.justify {
+    text-align: left;
+}
